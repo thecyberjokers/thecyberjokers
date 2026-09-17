@@ -1,15 +1,93 @@
+# 🃏 The Cyber Jokers
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/basti.ka.musafir?stkn=MWgwZXlsY2l2eTQydQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arun-chaudhary-451512428?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thecyberjokers@gmail.com) 
+**thecyberjokers** — official GitHub profile of **Arun Chaudhary / The Cyber Jokers**.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=thecyberjokers&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=thecyberjokers&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=thecyberjokers&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+> Open-source projects, Linux tools, Python projects, cybersecurity learning, web development, and developer experiments.
 
 ---
-[![](https://komarev.com/ghpvc/?username=thecyberjokers&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+Hi! I'm **Arun Chaudhary**, the person behind **The Cyber Jokers (`thecyberjokers`)**.
+
+I enjoy learning technology by building practical projects, experimenting with Linux and Python, and exploring cybersecurity and open-source software.
+
+### 🔎 Search for me
+
+If you're looking for **The Cyber Jokers**, **thecyberjokers GitHub**, or **Arun Chaudhary**, this is my official GitHub profile.
+
+- 🃏 **GitHub:** https://github.com/thecyberjokers
+- 👤 **Name:** Arun Chaudhary
+- 🌍 **Location:** Basti, Uttar Pradesh, India
+
+---
+
+## 🛠️ What I Build & Learn
+
+- 🐍 Python projects
+- 🐧 Linux tools and utilities
+- 🔐 Cybersecurity & ethical security research
+- 🌐 Web development
+- ⚙️ Automation and scripting
+- 🤖 AI and developer tools
+- 📦 Open-source projects
+- 🔧 Git, GitHub & GitLab
+
+All security-related projects are intended for **authorized labs, education, testing, and defensive learning**.
+
+---
+
+## 🚀 Projects
+
+Explore the repositories on this profile to see my latest projects, tools, experiments, and learning work.
+
+⭐ New projects are added as I build and learn.
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**
+`Python` `HTML` `CSS` `JavaScript` `Bash` `C` `C++`
+
+**Platforms & Tools**
+`Linux` `Kali Linux` `Debian` `Git` `GitHub` `GitLab` `GitHub Actions`
+
+---
+
+## 🌐 Connect With Me
+
+### 📸 Instagram
+https://www.instagram.com/basti.ka.musafir/
+
+### 💼 LinkedIn
+https://www.linkedin.com/in/arun-chaudhary-451512428/
+
+### 📧 Contact Email
+**ac8447327@gmail.com**
+
+### 📨 Official / Project Email
+**thecyberjokers@gmail.com**
+
+### 📍 Location
+**Basti, Uttar Pradesh, India**
+
+---
+
+## 📊 GitHub Activity
+
+I use GitHub to document my projects, experiments, learning progress, and open-source work.
+
+---
+
+## 🃏 About The Cyber Jokers
+
+**The Cyber Jokers** is the personal open-source project identity of **Arun Chaudhary**, focused on learning, building, experimenting, and sharing software projects.
+
+⭐ Explore the repositories and follow **thecyberjokers** for future projects.
+
+---
+
+### 🔑 Keywords
+
+`thecyberjokers` · `The Cyber Jokers` · `thecyberjokers GitHub` · `The Cyber Jokers GitHub` · `Arun Chaudhary` · `Arun Chaudhary GitHub` · `cybersecurity` · `ethical hacking` · `Python projects` · `Linux tools` · `open source` · `GitHub`
