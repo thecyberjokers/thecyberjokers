@@ -139,7 +139,7 @@ I build and experiment with:
           ├─────────────────────────┤
           │  CODE       → BUILD     │
           │  LEARN      → EXPLORE   │
-          │  EXPERIMENT → IMPROVE  │
+          │  EXPERIMENT → IMPROVE   │
           │  SHARE      → GROW      │
           └─────────────────────────┘
 ```
