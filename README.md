@@ -27,7 +27,7 @@
 │  USERNAME  : thecyberjokers                         │
 │  FOCUS     : Python • Linux • Cybersecurity         │
 │  STATUS    : Learning • Building • Exploring        │
-│  ADRESS      : Basti, Uttar Pradesh, India          │
+│  ADRESS    : Basti, Uttar Pradesh, India            │
 └──────────────────────────────────────────────────────┘
 ```
 
