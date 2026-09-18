@@ -91,7 +91,7 @@ I build and experiment with:
 ## 🐍 `./contributions`
 ---
 
-<div align="center">
+<div align="left">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 
