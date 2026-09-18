@@ -86,9 +86,7 @@ I build and experiment with:
 ## 📊 `./github_stats`
 
 <div align="center">
-
 ---
-
 ## 🐍 `./contributions`
 
 <div align="center">
