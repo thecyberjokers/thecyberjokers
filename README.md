@@ -87,12 +87,6 @@ I build and experiment with:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thecyberjokers&show_icons=true&hide_border=true&bg_color=09001a&title_color=00e5ff&icon_color=9d4edd&text_color=ffffff&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecyberjokers&layout=compact&hide_border=true&bg_color=09001a&title_color=00e5ff&text_color=ffffff" height="165"/>
-
-</div>
-
 ---
 
 ## 🐍 `./contributions`
