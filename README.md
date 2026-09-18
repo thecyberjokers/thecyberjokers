@@ -13,6 +13,8 @@
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=thecyberjokers&label=PROFILE%20VIEWS&color=00e5ff&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/thecyberjokers?label=FOLLOWERS&style=for-the-badge&color=9d4edd" />
+<img src="https://img.shields.io/badge/STATUS-Learning%20%26%20Building-00e5ff?style=for-the-badge" />
 
 </div>
 
@@ -22,12 +24,12 @@
 
 ```text
 ┌──────────────────────────────────────────────────────┐
-│  NAME      : Arun Chaudhary                          │
-│  IDENTITY  : The Cyber Jokers                        │
-│  USERNAME  : thecyberjokers                          │
-│  FOCUS     : Python • Linux • Cybersecurity          │
-│  STATUS    : Learning • Building • Exploring         │
-│  ADRESS    : Basti, Uttar Pradesh, India             │
+│  NAME      : Arun Chaudhary                           │
+│  IDENTITY  : The Cyber Jokers                         │
+│  USERNAME  : thecyberjokers                           │
+│  FOCUS     : Python • Linux • Cybersecurity           │
+│  STATUS    : Learning • Building • Exploring          │
+│  BASE      : Basti, Uttar Pradesh, India              │
 └──────────────────────────────────────────────────────┘
 ```
 
@@ -62,6 +64,8 @@ My security-related learning focuses on **authorized labs, education, testing, a
 [+] Ethical security research
 ```
 
+> 🎯 Currently working toward: **CEH · OSCP · CompTIA Security+**
+
 ---
 
 ## 🚀 `./projects`
@@ -77,6 +81,10 @@ I build and experiment with:
 | 🤖 AI | Developer experiments & ideas |
 | 🛠️ CLI | Terminal-based utilities |
 
+### 📌 Featured
+
+> Pin your top 3–4 repos on GitHub (Profile → Customize your pins) so they show up here as cards automatically. A couple of lines to describe each also help recruiters/visitors skim fast.
+
 ### ⭐ Explore my repositories
 
 **[→ github.com/thecyberjokers](https://github.com/thecyberjokers)**
@@ -86,12 +94,22 @@ I build and experiment with:
 ## 📊 `./github_stats`
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=thecyberjokers&show_icons=true&hide_border=true&bg_color=09001a&title_color=00e5ff&icon_color=9d4edd&text_color=ffffff&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecyberjokers&layout=compact&hide_border=true&bg_color=09001a&title_color=00e5ff&text_color=ffffff" height="165"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thecyberjokers&hide_border=true&background=09001a&stroke=00e5ff&ring=9d4edd&fire=00e5ff&currStreakLabel=00e5ff" height="165"/>
+
+</div>
+
 ---
 
 ## 🐍 `./contributions`
----
 
-<div align="left">
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 
@@ -133,7 +151,7 @@ I build and experiment with:
           ├─────────────────────────┤
           │  CODE       → BUILD     │
           │  LEARN      → EXPLORE   │
-          │  EXPERIMENT → IMPROVE   │
+          │  EXPERIMENT  → IMPROVE  │
           │  SHARE      → GROW      │
           └─────────────────────────┘
 ```
