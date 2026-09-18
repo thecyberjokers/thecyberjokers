@@ -22,12 +22,12 @@
 
 ```text
 ┌──────────────────────────────────────────────────────┐
-│  NAME      : Arun Chaudhary                         │
-│  IDENTITY  : The Cyber Jokers                       │
-│  USERNAME  : thecyberjokers                         │
-│  FOCUS     : Python • Linux • Cybersecurity         │
-│  STATUS    : Learning • Building • Exploring        │
-│  ADRESS    : Basti, Uttar Pradesh, India            │
+│  NAME      : Arun Chaudhary                          │
+│  IDENTITY  : The Cyber Jokers                        │
+│  USERNAME  : thecyberjokers                          │
+│  FOCUS     : Python • Linux • Cybersecurity          │
+│  STATUS    : Learning • Building • Exploring         │
+│  ADRESS    : Basti, Uttar Pradesh, India             │
 └──────────────────────────────────────────────────────┘
 ```
 
