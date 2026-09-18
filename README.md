@@ -24,12 +24,12 @@
 
 ```text
 ┌──────────────────────────────────────────────────────┐
-│  NAME      : Arun Chaudhary                           │
-│  IDENTITY  : The Cyber Jokers                         │
-│  USERNAME  : thecyberjokers                           │
-│  FOCUS     : Python • Linux • Cybersecurity           │
-│  STATUS    : Learning • Building • Exploring          │
-│  BASE      : Basti, Uttar Pradesh, India              │
+│  NAME      : Arun Chaudhary                          │
+│  IDENTITY  : The Cyber Jokers                        │
+│  USERNAME  : thecyberjokers                          │
+│  FOCUS     : Python • Linux • Cybersecurity          │
+│  STATUS    : Learning • Building • Exploring         │
+│  BASE      : Basti, Uttar Pradesh, India             │
 └──────────────────────────────────────────────────────┘
 ```
 
@@ -95,10 +95,6 @@ I build and experiment with:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thecyberjokers&show_icons=true&hide_border=true&bg_color=09001a&title_color=00e5ff&icon_color=9d4edd&text_color=ffffff&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecyberjokers&layout=compact&hide_border=true&bg_color=09001a&title_color=00e5ff&text_color=ffffff" height="165"/>
-
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thecyberjokers&hide_border=true&background=09001a&stroke=00e5ff&ring=9d4edd&fire=00e5ff&currStreakLabel=00e5ff" height="165"/>
@@ -151,7 +147,7 @@ I build and experiment with:
           ├─────────────────────────┤
           │  CODE       → BUILD     │
           │  LEARN      → EXPLORE   │
-          │  EXPERIMENT  → IMPROVE  │
+          │  EXPERIMENT → IMPROVE   │
           │  SHARE      → GROW      │
           └─────────────────────────┘
 ```
